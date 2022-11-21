@@ -20,10 +20,10 @@
     "> 2%"
   ],
   "scripts": {
-    "css:basic": "postcss scss/styles.scss --output public/assets/css/styles.css --env development --config config --verbose",
-    "css:dev": "postcss scss/styles.scss --output public/assets/css/styles.css --env development --verbose",
-    "watch": "postcss scss/styles.scss --output public/assets/css/styles.css --env development --config config --verbose --watch",
-    "build": "postcss scss/styles.scss --output public/assets/css/styles.css --env production --config config --verbose"
+    "css:basic": "postcss scss/styles.scss --output assets/css/styles.css --env development --config config --verbose",
+    "css:dev": "postcss scss/styles.scss --output assets/css/styles.css --env development --verbose",
+    "watch": "postcss scss/styles.scss --output assets/css/styles.css --env development --config config --verbose --watch",
+    "build": "postcss scss/styles.scss --output assets/css/styles.css --env production --config config --verbose"
   },
   "keywords": [],
   "author": "",
