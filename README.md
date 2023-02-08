@@ -9,4 +9,4 @@ copy following into terminal to add the admin and guest areas for wedding websit
 - git submodule add https://github.com/pmedia84/guests.git
 note that this does not copy up to the cpanel, clone repo into cpanel once website is uploaded.
 
-email settings files are ignored and a seperate file should be uploaded.
+email settings files are ignored and a separate file should be uploaded.
