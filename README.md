@@ -7,3 +7,6 @@ Initialise with npm install --save-dev
 copy following into terminal to add the admin and guest areas for wedding websites 
 - git submodule add https://github.com/pmedia84/admin.git
 - git submodule add https://github.com/pmedia84/guests.git
+note that this does not copy up to the cpanel, clone repo into cpanel once website is uploaded.
+
+email settings files are ignored and a seperate file should be uploaded.
